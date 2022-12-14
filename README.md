@@ -1,6 +1,6 @@
 ## About 
 
-Website built in html, css and javascript for a sales & marketing company.
+Website built in html, css and javascript for a sales & marketing company.  Fully responsive with media queries best practice and with an integration with type form for receiving email requests.
 
 Check the Iz-Sales Site live version here: [live Version](https://gjuliao.github.io/iz-sales-webpage/)
 
